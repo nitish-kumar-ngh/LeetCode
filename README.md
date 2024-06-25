@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2058-concatenation-of-array) |
 # Simulation
 |  |
@@ -66,3 +67,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0744-network-delay-time) |
+# Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
