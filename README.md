@@ -9,6 +9,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2058-concatenation-of-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 # Simulation
@@ -24,6 +25,7 @@
 | [0744-network-delay-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 # Breadth-First Search
 |  |
@@ -35,6 +37,7 @@
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 # Union Find
 |  |
@@ -43,6 +46,7 @@
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 # Graph
 |  |
@@ -71,6 +75,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 # Shortest Path
 |  |
 | ------- |
@@ -83,6 +88,7 @@
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 # Two Pointers
 |  |
 | ------- |
@@ -99,3 +105,4 @@
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
