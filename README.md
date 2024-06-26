@@ -61,6 +61,7 @@
 # String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0179-largest-number) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
