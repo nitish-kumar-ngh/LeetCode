@@ -33,6 +33,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0179-largest-number) |
+| [0433-minimum-genetic-mutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 # Heap (Priority Queue)
@@ -86,6 +88,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 # Binary Search
 |  |
