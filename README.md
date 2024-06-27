@@ -25,6 +25,7 @@
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -59,6 +61,7 @@
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 # Binary Search
 |  |
