@@ -120,3 +120,18 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+<!---LeetCode Topics End-->
