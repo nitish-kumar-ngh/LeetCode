@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Breadth-First Search
 |  |
@@ -163,10 +164,12 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
