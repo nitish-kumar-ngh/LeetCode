@@ -170,6 +170,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -183,8 +184,13 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
