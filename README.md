@@ -183,6 +183,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
