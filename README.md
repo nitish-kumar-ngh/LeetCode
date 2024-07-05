@@ -127,6 +127,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
+| [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
