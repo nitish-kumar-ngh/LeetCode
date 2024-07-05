@@ -195,6 +195,7 @@
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
