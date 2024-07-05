@@ -134,6 +134,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -182,6 +183,7 @@
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -259,8 +261,10 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
+| [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
