@@ -133,6 +133,7 @@
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
