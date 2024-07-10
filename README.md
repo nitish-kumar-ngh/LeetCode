@@ -158,6 +158,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -303,4 +304,8 @@
 |  |
 | ------- |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
