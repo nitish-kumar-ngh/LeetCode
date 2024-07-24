@@ -137,6 +137,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -245,6 +246,7 @@
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
