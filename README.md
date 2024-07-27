@@ -190,6 +190,7 @@
 | ------- |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1916-find-center-of-star-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -355,6 +356,7 @@
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -391,4 +393,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
