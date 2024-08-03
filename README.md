@@ -129,6 +129,7 @@
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -312,6 +313,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Counting
 |  |
@@ -335,6 +337,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -423,5 +426,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
