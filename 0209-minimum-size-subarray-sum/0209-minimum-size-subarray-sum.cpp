@@ -7,13 +7,18 @@ public:
         int x=0;
         while (j<nums.size()){
             x=x+nums[j];
-            if (x>=target){
-                minLen=min(minLen,j-i+1);
-                j=i;
-                i++;
+            // if (x>=target){
+            //     minLen=min(minLen,j-i+1);
+            //     j=i;
+            //     i++;
                 
-                x=0;
+            //     x=0;
                 
+            // }
+            while (x>=target){
+              minLen=min(minLen,j-i+1);
+              x=x-nums[i];
+              i++;
             }
             j++;
         }
