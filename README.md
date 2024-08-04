@@ -156,6 +156,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -331,6 +332,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Recursion
 |  |
 | ------- |
@@ -434,4 +436,9 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
