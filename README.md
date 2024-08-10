@@ -125,6 +125,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -361,6 +362,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
