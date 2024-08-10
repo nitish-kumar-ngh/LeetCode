@@ -145,6 +145,7 @@
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -234,6 +235,7 @@
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -300,6 +302,7 @@
 | [0231-power-of-two](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -450,6 +453,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
