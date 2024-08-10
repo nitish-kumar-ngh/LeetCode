@@ -136,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -228,6 +229,7 @@
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Counting
 |  |
