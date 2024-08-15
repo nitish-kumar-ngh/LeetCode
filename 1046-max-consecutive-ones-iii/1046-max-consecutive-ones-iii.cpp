@@ -7,7 +7,7 @@ public:
         unordered_map<int ,int>mp;
         while(r<nums.size()){
             mp[nums[r]]++;
-            while(mp[0]>k){
+            if(mp[0]>k){
                 mp[nums[l]]--;
                 l++;
             }
