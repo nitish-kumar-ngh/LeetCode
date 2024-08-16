@@ -1,30 +1,38 @@
 class Solution {
 public:
-void dfs(vector<vector<char>>& grid,int i,int j){
-    int r=grid.size();
-    int c=grid[0].size();
-    if (i<0 || j<0 || i>=r || j>=c ||grid[i][j]=='0')return;
-    grid[i][j]='0';
-    dfs(grid,i+1,j);
-    dfs(grid,i,j+1);
-    dfs(grid,i-1,j);
-    dfs(grid,i,j-1);
-}
-    int numIslands(vector<vector<char>>& grid) {
-    int r=grid.size();
-    int c=grid[0].size();
-    int cc=0;
-    for (int i=0;i<r;i++){
-        for (int j=0;j<c;j++){
-           if (grid[i][j]=='0')continue;
-           cc++;
-           //isrow se BFS chalao
-           dfs(grid,i,j);
-           
-
-        }
+   void dfs(int i,int j,vector<vector<int>>& gri){
+    if (i<0 || j<0 || i>=gri.size()||j>=gri[0].size() || gri[i][j]==0){
+        return;
     }
-        
-    return cc;
+    gri[i][j]=0;
+    dfs(i+1,j,gri);
+    dfs(i,j+1,gri);
+    dfs(i-1,j,gri);
+    dfs(i,j-1,gri);
+   }
+    int numIslands(vector<vector<char>>& grid) {
+        vector<vector<int>>gri(grid.size(),vector<int>(grid[0].size(),0));
+         for (int i=0;i<grid.size();i++){
+            for (int j=0;j<grid[0].size();j++){
+               gri[i][j]=grid[i][j]-'0';
+            }
+        }
+        int cnt=0;
+        for (int i=0;i<gri.size();i++){
+            for (int j=0;j<gri[0].size();j++){
+                if (gri[i][j]==1){
+                    cnt++;
+                    dfs(i,j,gri);
+                }
+            }
+        }
+
+        for (int i=0;i<gri.size();i++){
+            for (int j=0;j<gri[0].size();j++){
+                cout<<gri[i][j]<<" ";
+            }
+            cout<<"\n";
+        }
+        return cnt;
     }
 };
