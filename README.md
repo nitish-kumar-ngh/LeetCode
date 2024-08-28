@@ -162,6 +162,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -183,6 +184,7 @@
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
+| [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -196,6 +198,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
 |  |
@@ -207,6 +210,7 @@
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
+| [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -214,6 +218,7 @@
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
+| [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
