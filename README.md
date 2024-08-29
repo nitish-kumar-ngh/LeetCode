@@ -131,6 +131,7 @@
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -296,6 +297,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
