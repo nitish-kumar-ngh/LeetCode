@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool ispalindrome(int st,int e,string &s){
-        // string k=s.substr(idx,i-idx+1);
-        // string y=k;
-        // reverse(k.begin(),k.end());
-        // if (y==k)return true;
-        // else return false;
-        while(st<=e){
-            if (s[st]==s[e]){
-                e--;
-                st++;
-            }else return false;
-        }
-        return true;
+        string k=s.substr(st,e-st+1);
+        string y=k;
+        reverse(k.begin(),k.end());
+        if (y==k)return true;
+        else return false;
+        // while(st<=e){
+        //     if (s[st]==s[e]){
+        //         e--;
+        //         st++;
+        //     }else return false;
+        // }
+        // return true;
     }
     void f(int idx,string s,vector<string>&path, vector<vector<string>>&res){
         if (idx==s.size()){
