@@ -175,6 +175,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -389,6 +390,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
