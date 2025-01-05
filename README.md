@@ -176,6 +176,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -309,6 +310,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -391,6 +393,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
