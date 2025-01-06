@@ -168,6 +168,7 @@
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
@@ -306,6 +307,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -391,6 +393,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
