@@ -286,6 +286,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -467,6 +468,7 @@
 | [0062-unique-paths](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
