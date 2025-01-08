@@ -1,26 +1,21 @@
 class Solution {
 public:
-    vector<int>arr;
-    vector<int>dp;
-    int f(int i){
-        if (i==0)return 1;
-        if (dp[i]!=-1) return dp[i];
-        int mx=INT_MIN;
-        for (int j=0;j<=i-1;j++){
-            if (arr[j]<arr[i])
-            mx= max(mx,f(j));
+//int len=INT_MIN;
+    int t[2505][2505];
+    int f(int idx,int prev_idx,vector<int>& nums){
+        if (idx>=nums.size())return 0;
+        if (t[idx][prev_idx+1]!=-1)return t[idx][prev_idx+1];
+
+        int len=f(idx+1,prev_idx,nums);
+        if (prev_idx==-1||nums[idx]>nums[prev_idx]){
+           len=max(len,1+f(idx+1,idx,nums));
         }
-        if (mx==INT_MIN)return dp[i]=1;
-        return dp[i]= 1+mx;
+        return t[idx][prev_idx+1]=len;
+        
+        
     }
     int lengthOfLIS(vector<int>& nums) {
-    arr=nums;
-    dp.resize(2505,-1);
-    int ans=INT_MIN;
-    dp[0]=1;
-    for (int i=0;i<arr.size();i++){
-        ans=max(ans,f(i));
-    }
-    return ans;
+        memset(t,-1,sizeof(t));
+        return f(0,-1,nums);
     }
 };
