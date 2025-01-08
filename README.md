@@ -147,6 +147,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -271,6 +272,7 @@
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -453,6 +455,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -568,4 +571,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
