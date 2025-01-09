@@ -160,6 +160,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -280,6 +281,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
@@ -305,6 +307,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -353,6 +356,7 @@
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -456,6 +460,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
@@ -495,6 +500,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
