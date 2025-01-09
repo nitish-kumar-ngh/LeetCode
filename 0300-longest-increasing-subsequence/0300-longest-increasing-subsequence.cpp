@@ -15,7 +15,26 @@ public:
         
     }
     int lengthOfLIS(vector<int>& nums) {
-        memset(t,-1,sizeof(t));
-        return f(0,-1,nums);
+        int n=nums.size();
+         int dp[2505][2505];
+        memset(dp,0,sizeof(dp));
+      //  return f(0,-1,nums);
+      for (int i=n-1;i>=0;i--){
+        for(int j=i-1;j>=-1;j--){
+            int len=dp[i+1][j+1];
+        if (j==-1||nums[i]>nums[j]){
+           len=max(len,1+dp[i+1][i+1]);
+         
+        }
+          dp[i][j+1]=len;
+        }
+      }
+      for (int i=0;i<9;i++){
+        for(int j=0;j<9;j++){
+            cout<<dp[i][j]<<" ";
+        }
+        cout<<"\n";
+      }
+      return dp[0][-1+1];
     }
 };
