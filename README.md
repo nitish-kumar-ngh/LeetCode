@@ -155,6 +155,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -512,6 +514,7 @@
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
