@@ -292,6 +292,7 @@
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
@@ -321,6 +322,7 @@
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
@@ -406,6 +408,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -434,6 +437,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Queue
