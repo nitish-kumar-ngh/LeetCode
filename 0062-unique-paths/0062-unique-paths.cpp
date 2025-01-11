@@ -1,19 +1,18 @@
 class Solution {
 public:
-   vector<vector<int> >dp;
-   vector<vector<int> >grid;
-   int f(int i,int j){
-    int r=grid.size();
-    int c=grid[0].size();
-    if (i==r-1 and j==c-1)return 1;
-    if (dp[i][j]!=-1)return dp[i][j];
-    if (i>=r || j>=c ||i<0 || j<0)return 0;
-    return dp[i][j]=f(i+1,j) + f(i,j+1);
+  int t[105][105];
+   int f(int i,int j,int m,int n){
+    if(i>=m || j>=n){
+        return 0;
+    }
+    if (i==m-1 && j==n-1)return 1;
+    if(t[i][j]!=-1)return t[i][j];
+    int down=f(i+1,j,m,n);
+    int right=f(i,j+1,m,n);
+    return t[i][j]= down+right;
    }
     int uniquePaths(int m, int n) {
-        grid.clear();
-        grid.resize(m,vector<int>(n,0));
-         dp.resize(105,vector<int>(105,-1));
-        return f(0,0);
+        memset(t,-1,sizeof(t));
+        return f(0,0,m,n);
     }
 };
