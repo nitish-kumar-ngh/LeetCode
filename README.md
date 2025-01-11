@@ -134,6 +134,7 @@
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0120-triangle) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
@@ -234,6 +236,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -270,6 +273,7 @@
 | [0046-permutations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
@@ -310,6 +314,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
