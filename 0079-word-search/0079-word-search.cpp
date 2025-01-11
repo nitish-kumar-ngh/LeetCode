@@ -77,8 +77,8 @@ public:
       m=board.size();
         n=board[0].size();
         int l=word.size();
-           if(m*n < l)
-            return false;
+        //    if(m*n < l)
+        //     return false;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(board[i][j]==word[0]){//charter first is matched
