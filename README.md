@@ -241,6 +241,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -506,6 +507,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -570,11 +572,13 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
 |  |
