@@ -222,6 +222,7 @@
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -256,6 +257,7 @@
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -312,6 +314,7 @@
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [0952-word-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
@@ -403,6 +406,7 @@
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -592,6 +596,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -602,6 +607,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
