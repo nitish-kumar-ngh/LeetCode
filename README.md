@@ -153,6 +153,7 @@
 | [0312-burst-balloons](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -225,6 +226,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
@@ -242,6 +244,7 @@
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
@@ -474,6 +477,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
