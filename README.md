@@ -203,6 +203,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
+| [2685-first-completely-painted-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -254,6 +255,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2685-first-completely-painted-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
+| [2685-first-completely-painted-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
