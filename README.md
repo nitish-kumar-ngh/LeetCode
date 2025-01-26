@@ -292,6 +292,7 @@
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [1916-find-center-of-star-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
 |  |
@@ -747,4 +749,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
