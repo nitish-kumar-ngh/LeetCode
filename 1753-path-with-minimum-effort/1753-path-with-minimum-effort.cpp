@@ -1,43 +1,35 @@
 class Solution {
 public:
-    typedef pair<int,pair<int,int>>P;
-    vector<vector<int>>directions={{1,0},{0,1},{-1,0},{0,-1}};
     int minimumEffortPath(vector<vector<int>>& heights) {
-    
-    int m=heights.size();
-    int n=heights[0].size();
-    auto isSafe=[&](int x,int y){
-        return x>=0 && y>=0 && x<m && y<n;
-    };
-    vector<vector<int>>result(m,vector<int>(n,INT_MAX));
-
-    priority_queue<P,vector<P>,greater<P> >pq;
-    pq.push({0,{0,0}});
-    result[0][0]=0;
-    while(!pq.empty()){
-        auto ele=pq.top();
-        int diff=ele.first;
-        auto coordinate=ele.second;
-        int x=coordinate.first;
-        int y=coordinate.second;
-        pq.pop();
-        //neighbour explore
-        for (auto dir:directions){
-            int x_=x+dir[0];
-            int y_=y+dir[1];
-            if(isSafe(x_,y_)){
-                int newdiff= abs(heights[x][y]-heights[x_][y_]);
-                int maxdiff=max(diff,newdiff);
-                if (result[x_][y_]>maxdiff){
-                    result[x_][y_]=maxdiff;
-                    pq.push({maxdiff,{x_,y_}});
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>q;
+        int m=heights.size();
+        int n=heights[0].size();
+        vector<vector<int>>ans(m,vector<int>(n,1e9));
+        int dx[]={0,1,-1,0};
+        int dy[]={1,0,0,-1};
+        ans[0][0]=0;
+        q.push({0,{0,0}});
+        while(q.size()>0){
+            auto v=q.top();
+            q.pop();
+            int d=v.first;
+            int x=v.second.first;
+            int y=v.second.second;
+            
+            for(int i=0;i<4;i++){
+                int x_=x+dx[i];
+                int y_=y+dy[i];
+                if (x_<m &&y_<n &&x_>=0 &&y_>=0){
+                    int diff=abs(heights[x_][y_]-heights[x][y]);
+                    int newdist=max(d,diff);
+                     if (ans[x_][y_]>newdist){
+                        q.push({newdist,{x_,y_}});
+                        ans[x_][y_]=newdist;
+                        }
                 }
             }
+            
         }
-    }
-
-
-     return result[m-1][n-1];
-
+        return ans[m-1][n-1];
     }
 };
