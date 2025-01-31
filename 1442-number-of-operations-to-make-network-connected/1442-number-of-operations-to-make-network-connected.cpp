@@ -2,13 +2,22 @@ class DisjointSet{
 public:
 vector<int>rank;
 vector<int>parent;
+vector<int>size;
 DisjointSet(int n){
 
 rank.resize(n,0);
 parent.resize(n,0);
+size.resize(n,0);
 for (int i=0;i<n;i++){
     parent[i]=i;
-}}
+}
+for (int i=0;i<n;i++){
+   size[i]=1;
+}
+
+
+
+}
 int find_parent(int x){
     if (x==parent[x])return x;
     return parent[x]=find_parent(parent[x]);
@@ -27,6 +36,23 @@ void union_by_rank(int u,int v){
      }
 }
 
+void union_by_size(int u,int v){
+    int ulp_u=find_parent(u);
+     int ulp_v=find_parent(v);
+     if (ulp_u==ulp_v)return;
+     if (size[ulp_u]>size[ulp_v]){
+        parent[ulp_v]=ulp_u;
+        size[ulp_v]+=size[ulp_u];
+     }else {
+           parent[ulp_u]=ulp_v;
+           size[ulp_u]+=size[ulp_v];
+     }
+}
+
+
+
+
+
 };
 
 
@@ -42,7 +68,7 @@ public:
             int y=v[1];
             if (ds.find_parent(x)==ds.find_parent(y))cnt++;
             else{
-                ds.union_by_rank(x,y);
+                ds.union_by_size(x,y);
             }
         }
 
