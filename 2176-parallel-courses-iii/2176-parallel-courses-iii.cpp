@@ -33,10 +33,10 @@ public:
             q.pop();
             for(auto v:adj[node]){
                 indegree[v]--;
-                // if (ans[node]+time[v]>ans[v]){
-                //     ans[v]=ans[node]+time[v];
-                // }
-               ans[v]=max(ans[v],ans[node]+time[v]);
+                if (ans[node]+time[v]>ans[v]){
+                    ans[v]=ans[node]+time[v];
+                }
+              // ans[v]=max(ans[v],ans[node]+time[v]);
                // ans[v]=max(ans[v],time[node]+time[v]);
               // ans[v]=max(ans[v],ans[node]+time[v]+time[node]);
                 if(indegree[v]==0){
