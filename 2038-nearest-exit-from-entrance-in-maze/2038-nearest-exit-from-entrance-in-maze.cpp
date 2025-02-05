@@ -1,46 +1,39 @@
-
-
 class Solution {
 public:
-    vector<vector<int>>directions={{1,0},{0,1},{-1,0},{0,-1}};
-
+    typedef pair<int, pair<int, int>> p;
     int nearestExit(vector<vector<char>>& maze, vector<int>& entrance) {
         int m=maze.size();
         int n=maze[0].size();
-        int steps=0;
-
-        queue<pair<int,int>>que;
-        que.push({entrance[0],entrance[1]});
-        //visite karo by making '+'
-        maze[entrance[0]][entrance[1]]='+';
-
-        while (que.size()>0){
-             int N= que.size();
-             while (N--){
-              auto ele=que.front();
-              que.pop();
-              int i= ele.first;
-              int j= ele.second;
-              //boundary check
-              if ((ele!= make_pair(entrance[0],entrance[1]))&& (i==0||i==m-1||j==n-1||j==0) )return steps;
-              //explore the neighbours
-              for (auto dir:directions){
-
-                int new_i=i+dir[0];
-                int new_j=j+dir[1];
-                if ((new_i>=0 && new_i<m && new_j>=0&&new_j<n)&& (maze[new_i][new_j]!='+')){
-                    que.push({new_i,new_j});
-                    maze[new_i][new_j]='+';
+        vector<vector<int>>vis(m,vector<int>(n,0));
+        priority_queue<p, vector<p>, greater<p>> q;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if (i==0 || i==m-1 ||j==0 || j==n-1){
+                if (maze[i][j]=='.'){
+                    if (i==entrance[0]&&j==entrance[1])continue;
+                    q.push({0,{i,j}});
+                    vis[i][j]=1;
+                }}
+            }
+        }
+        int dx[]={1,0,-1,0};
+        int dy[]={0,1,0,-1};
+        while(q.size()>0){
+            auto a=q.top();
+            int d=a.first;
+            int x=a.second.first;
+            int y=a.second.second;
+            q.pop();
+            if (x==entrance[0] && y==entrance[1])return d;
+            for (int j=0;j<4;j++){
+                int new_x=x+dx[j];
+                int new_y=y+dy[j];
+                if (new_x>=0 && new_y>=0 && new_x<m && new_y<n &&maze[new_x][new_y]=='.' && vis[new_x][new_y]==0){
+                    q.push({d+1,{new_x,new_y}});
+                    vis[new_x][new_y]=1;
                 }
-              }
-
-
-
-
-             }
-             steps++;
-
-
+            }
+   
         }
         return -1;
     }
