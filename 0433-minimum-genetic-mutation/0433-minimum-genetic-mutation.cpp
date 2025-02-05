@@ -1,36 +1,28 @@
 class Solution {
 public:
     int minMutation(string startGene, string endGene, vector<string>& bank) {
-        unordered_set<string>bankset(bank.begin(),bank.end());
-
-        unordered_set<string>visited;
-
-        queue<string>que;
-
-        que.push(startGene);
-        visited.insert(startGene);
-        int level=0;
-        while(!que.empty()){
-               int N=que.size();
-               while(N--){
-                string curr=que.front();
-                if (curr==endGene)return level;
-                que.pop();
-                for (char ch:"ACGT"){
-                    for (int i=0;i<curr.size();i++){
-                        string neighbour=curr;
-                        neighbour[i]=ch;//firstly A THen C,G,T
-                        if(bankset.find(neighbour)!=bankset.end()&& visited.find(neighbour)==visited.end()){
-                            que.push(neighbour);
-                            visited.insert(neighbour);
-                        }
+        queue<pair<string,int>>q;
+        set<string>s(bank.begin(),bank.end());
+        q.push({startGene,0});
+        string k="ACGT";
+        while(q.size()>0){
+            auto v=q.front();
+            string ans=v.first;
+            int d=v.second;
+            if (ans==endGene)return d;
+            q.pop();
+            for (int i=0;i<ans.size();i++){
+                char original=ans[i];
+                for (int j=0;j<k.size();j++){
+                    ans[i]=k[j];
+                    if (s.find(ans)!=s.end()){
+                        q.push({ans,d+1});
+                        s.erase(ans);
                     }
                 }
-               }
-               level++;
+                ans[i]=original;
 
-
-
+            }
         }
         return -1;
     }
