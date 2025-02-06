@@ -11,21 +11,31 @@
  */
 class Solution {
 public:
-    queue<int>q;
-    void f(TreeNode* root,int level){
-        if(root==NULL)return;
-        if (level==q.size())q.push(root->val);
-        f(root->right,level+1);
-        f(root->left,level+1);
-    }
     vector<int> rightSideView(TreeNode* root) {
-        f(root,0);
-        vector<int> right;
-        while(!q.empty()){
-            int a=q.front();
-            q.pop();
-            right.push_back(a);
+        if(root==NULL)return {};
+           unordered_map<int,int>mp;
+        queue<pair<int,TreeNode*>>q;
+        q.push({0,root});
+        while(q.size()>0){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode*temp=q.front().second;
+                int verticle=q.front().first;
+                q.pop();
+                mp[verticle]=temp->val;
+                if (temp->left)q.push({verticle+1,temp->left});
+                if(temp->right)q.push({verticle+1,temp->right});
+            }
         }
-        return right;
+        vector<pair<int,int>>v;
+        for(auto n:mp){
+            v.push_back({n.first,n.second});
+        }
+        sort(v.begin(),v.end());
+        vector<int>ans;
+        for(auto c:v){
+            ans.push_back(c.second);
+        }
+        return ans;
     }
 };
