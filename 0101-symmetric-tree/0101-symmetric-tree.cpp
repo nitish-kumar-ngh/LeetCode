@@ -11,14 +11,18 @@
  */
 class Solution {
 public:
-    bool issymmetric(TreeNode* l,TreeNode* r){
-        if(l==NULL || r==NULL){
-            return l==r;
-        }
-        if(l->val!=r->val)return false;
-        return issymmetric(l->left,r->right) && issymmetric(l->right,r->left);
-    }
+ bool isSmetrical(TreeNode*left,TreeNode*right){
+    if (left==NULL || right == NULL)return left==right;
+     if (left->val!=right->val)return false;
+      
+     if(isSmetrical(left->left,right->right)==false)return false;;
+       
+    if ( isSmetrical(left->right,right->left)==false)return false;
+     return true;
+ }
     bool isSymmetric(TreeNode* root) {
-        return root==NULL || issymmetric(root->left,root->right);
+        if (root==NULL)return true;
+        bool flag=isSmetrical(root->left,root->right);
+        return flag;
     }
 };
