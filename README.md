@@ -183,6 +183,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -413,6 +414,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -514,6 +516,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -594,6 +597,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
