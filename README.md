@@ -133,6 +133,7 @@
 | [0046-permutations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0078-subsets) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
@@ -562,6 +564,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
