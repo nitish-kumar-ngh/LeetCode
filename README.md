@@ -184,6 +184,7 @@
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
+| [1242-matrix-block-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -296,6 +297,7 @@
 | [1022-unique-paths-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
+| [1242-matrix-block-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -608,6 +610,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1242-matrix-block-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
