@@ -241,6 +241,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3429-special-array-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -577,6 +578,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -602,6 +604,7 @@
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
