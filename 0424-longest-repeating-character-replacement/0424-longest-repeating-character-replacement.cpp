@@ -9,7 +9,7 @@ public:
         while(r<s.size()){
             mp[s[r]]++;
             mxfreq=max(mxfreq,mp[s[r]]);
-            while(r-l+1-mxfreq>k){
+            if(r-l+1-mxfreq>k){
                 mp[s[l]]--;
                  mxfreq=max(mxfreq,mp[s[l]]);
                  l++;
