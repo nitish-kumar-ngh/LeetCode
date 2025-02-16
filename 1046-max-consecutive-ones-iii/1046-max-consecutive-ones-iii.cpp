@@ -3,17 +3,18 @@ public:
     int longestOnes(vector<int>& nums, int k) {
         int l=0;
         int r=0;
-        int maxLen=0;
-        unordered_map<int ,int>mp;
+        int mxlen=0;
         while(r<nums.size()){
-            mp[nums[r]]++;
-            if(mp[0]>k){
-                mp[nums[l]]--;
+            if(nums[r]==0)k--;
+            while(k<0){
+                if(nums[l]==0){
+                    k++;
+                }
                 l++;
             }
-            maxLen=max(maxLen,r-l+1);
+            mxlen=max(mxlen,r-l+1);
             r++;
         }
-        return maxLen;
+        return mxlen;
     }
 };
