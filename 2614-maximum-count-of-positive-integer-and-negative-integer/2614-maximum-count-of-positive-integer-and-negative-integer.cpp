@@ -1,6 +1,6 @@
 class Solution {
 public:
-   int lower_bound(vector<int>& nums){
+   int lowerbound(vector<int>& nums){
     int ans=nums.size();
     int l=0;
     int h=nums.size()-1;
@@ -15,7 +15,7 @@ public:
     }
     return ans;
    }
-    int upper_bound(vector<int>& nums){
+    int upperbound(vector<int>& nums){
     int ans=nums.size();
     int l=0;
     int h=nums.size()-1;
@@ -31,10 +31,8 @@ public:
     return ans;
    }
     int maximumCount(vector<int>& nums) {
-               int positiveCount = nums.size() - upper_bound(nums);
-        // All integers from the index 0 to index before the first zero index
-        // will be negative.
-        int negativeCount = lower_bound(nums);
+               int positiveCount = nums.size() - upperbound(nums);
+        int negativeCount = lowerbound(nums);
 
         return max(positiveCount, negativeCount);
     }
