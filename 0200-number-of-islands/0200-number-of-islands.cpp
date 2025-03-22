@@ -1,37 +1,31 @@
 class Solution {
 public:
-   void dfs(int i,int j,vector<vector<char>>& grid){
-    if (i<0 || j<0 || i>=grid.size()||j>=grid[0].size() || grid[i][j]=='0'){
-        return;
-    }
-    grid[i][j]='0';
-    dfs(i+1,j,grid);
-    dfs(i,j+1,grid);
-    dfs(i-1,j,grid);
-    dfs(i,j-1,grid);
-   }
+  int dx[4]={1,0,-1,0};
+  int dy[4]={0,1,0,-1};
+  int n,m;
+  void dfs (int i,int j,vector<vector<char>>& grid,vector<vector<int>>&vis){
+    if (i>=n || j>=m ||i<0 ||j<0||grid[i][j]=='0'||vis[i][j]==1)return;
+     vis[i][j]=1;
+     for (int d=0;d<4;d++){
+        int i_=i+dx[d];
+        int j_=j+dy[d];
+        dfs(i_,j_,grid,vis);
+     }
+
+     
+  }
     int numIslands(vector<vector<char>>& grid) {
-        vector<vector<int>>gri(grid.size(),vector<int>(grid[0].size(),0));
-         for (int i=0;i<grid.size();i++){
-            for (int j=0;j<grid[0].size();j++){
-               gri[i][j]=grid[i][j]-'0';
-            }
-        }
+         n=grid.size();
+         m=grid[0].size();
         int cnt=0;
-        for (int i=0;i<grid.size();i++){
-            for (int j=0;j<grid[0].size();j++){
-                if (grid[i][j]=='1'){
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if (grid[i][j]=='1'&& !vis[i][j]){
+                    dfs(i,j,grid,vis);
                     cnt++;
-                    dfs(i,j,grid);
                 }
             }
-        }
-
-        for (int i=0;i<gri.size();i++){
-            for (int j=0;j<gri[0].size();j++){
-                cout<<gri[i][j]<<" ";
-            }
-            cout<<"\n";
         }
         return cnt;
     }
