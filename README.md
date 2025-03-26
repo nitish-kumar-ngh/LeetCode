@@ -610,6 +610,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2571-find-the-pivot-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -682,6 +683,7 @@
 | [2145-grid-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2571-find-the-pivot-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
