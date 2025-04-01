@@ -130,6 +130,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
@@ -753,6 +754,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0768-partition-labels) |
@@ -766,6 +768,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -794,6 +797,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -943,6 +947,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bitmask
 |  |
