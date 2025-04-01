@@ -237,6 +237,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -560,6 +561,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2509-minimize-xor) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
