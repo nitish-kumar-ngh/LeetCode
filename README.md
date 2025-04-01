@@ -434,6 +434,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
@@ -777,6 +778,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Segment Tree
 |  |
@@ -959,6 +961,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -977,4 +980,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
