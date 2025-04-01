@@ -231,6 +231,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -827,6 +828,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
+| [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Combinatorics
