@@ -629,6 +629,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Simulation
 |  |
 | ------- |
