@@ -264,6 +264,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3429-special-array-i) |
@@ -647,6 +648,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
 |  |
@@ -703,6 +705,7 @@
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
