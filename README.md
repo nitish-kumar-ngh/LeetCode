@@ -265,6 +265,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3330-modify-the-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3429-special-array-i) |
@@ -339,6 +340,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3330-modify-the-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
