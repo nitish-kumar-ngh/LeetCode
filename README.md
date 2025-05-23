@@ -138,6 +138,7 @@
 | [0057-insert-interval](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -317,6 +318,7 @@
 | [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
@@ -443,6 +445,7 @@
 | [0001-two-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
