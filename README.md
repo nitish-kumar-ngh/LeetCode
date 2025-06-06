@@ -205,6 +205,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -867,6 +868,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
