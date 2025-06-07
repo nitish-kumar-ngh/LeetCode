@@ -504,6 +504,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -569,6 +570,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -693,6 +695,7 @@
 | [2636-maximum-subsequence-score](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -708,6 +711,7 @@
 | [2636-maximum-subsequence-score](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -819,6 +823,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
 | ------- |
