@@ -1,47 +1,52 @@
 class Solution {
 public:
-set<string>ans;
-   void p(string c,string temp, vector<int>&vis){
-    if(temp.size()==c.size()){
-        ans.insert(temp);
+    set<string>st;
+     set<string>st1;
+
+
+void permutation(string ste, int idx, vector<int>& vis, string &s) {
+    if (idx >= ste.size()) {
+        st1.insert(s);
         return;
     }
-    for(int i=0;i<c.size();i++){
-        if(!vis[i]){
-            string k=temp;
-            temp=temp+c[i];
-            vis[i]=1;
-            p(c,temp,vis);
-            vis[i]=0;
-            temp=k;
+    for (int i = 0; i < ste.size(); i++) {
+        if (vis[i] == 0) {
+            vis[i] = 1;
+            s += ste[i];             
+            permutation(ste, idx + 1, vis, s);
+            s.pop_back();             
+            vis[i] = 0;
         }
     }
-   }
-    void f(string &tiles,int idx,string s,set<string>&st){
-        if(idx>=tiles.size()){
+}
+
+
+    
+    void f(string tiles,int idx,string &s){
+         if(s.size()>=1){
             st.insert(s);
-            return;
         }
-        f(tiles,idx+1,s+tiles[idx],st);
-         f(tiles,idx+1,s,st);
+        if(idx>=tiles.size())return;
+       
+        for(int i=idx;i<tiles.size();i++){
+            string d=s;
+            s+=tiles[i];
+            f(tiles,i+1,s);
+            s=d;
+        }
     }
     int numTilePossibilities(string tiles) {
-        set<string>st;
-        f(tiles,0,"",st);
-        vector<string>v;
-        for(auto &c:st){
-            v.push_back(c);
+        string s;
+
+        f(tiles,0,s);
+       
+        vector<string>ste(st.begin(),st.end());
+        for(int i=0;i<ste.size();i++){
+            cout<<ste[i]<<" ";
+            vector<int>vis(ste.size(),0);
+            string s;
+           permutation(ste[i],0,vis,s);
         }
-        for(auto c:v){
-           // v.push_back(c);
-         //  vector<string>temp;
-           vector<int>vis(c.size(),0);
-           p(c,"",vis);
-        }
-        for(auto &c:ans){
-           cout<<c<<" ";
-        }
-        return ans.size()-1;
-        
+        return st1.size();
     }
 };
