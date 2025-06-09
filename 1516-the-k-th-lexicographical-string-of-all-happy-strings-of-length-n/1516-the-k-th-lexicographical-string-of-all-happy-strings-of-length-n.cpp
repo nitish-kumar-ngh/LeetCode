@@ -1,34 +1,43 @@
 class Solution {
 public:
-    priority_queue<string,vector<string>,greater<string>>ans;
-    void f(int i,int n,string temp,vector<int>&vis){
-        if(temp.size()==n){
-           ans.push(temp);
-           return;
-        }
-       if (temp.size()>=1){
-          if (temp[i-1]!='a' && i!=0) f(i+1,n,temp+"a",vis);
-        if (temp[i-1]!='b' && i!=0) f(i+1,n,temp+"b",vis);
-         if ( temp[i-1]!='c' ) f(i+1,n,temp+"c",vis);
-       }else{
-         f(i+1,n,temp+"a",vis);
-         f(i+1,n,temp+"b",vis);
-         f(i+1,n,temp+"c",vis);
-       }
-      
-      
+    vector<string>ans;
+   void f(string s,int i,int n){
+     if(s.size()==n){
+        ans.push_back(s);
     }
-    string getHappyString(int n, int k) {
-        vector<int>vis(n,0);
-        f(0,n,"",vis);
-        int cnt=0;
-        while(ans.size()>0){
-             auto c=ans.top();
-             cnt++;
-             if(cnt==k)return c;
-             ans.pop();
+    if(i>=n){
+        return;
+    }
+   
+    if(s.size()==0){
+        f(s+'a',i+1,n);
+        f(s+'b',i+1,n);
+        f(s+'c',i+1,n);
+    }
+    if(s.size()>0){
+        if(s[i-1]=='a'){
+             f(s+'b',i+1,n);
+            f(s+'c',i+1,n);
+        }else if(s[i-1]=='b'){
+             f(s+'a',i+1,n);
+           f(s+'c',i+1,n);
+        }else{
+               f(s+'a',i+1,n);
+          f(s+'b',i+1,n);
         }
-        return "";
+    }
+   }
+    string getHappyString(int n, int k) {
 
+        f("",0,n);
+        sort(ans.begin(),ans.end());
+        for(int i=0;i<ans.size();i++){
+            cout<<ans[i]<<" ";
+        }
+        if (k<=ans.size()){
+            return ans[k-1];
+        }else{
+            return "";
+        }
     }
 };
