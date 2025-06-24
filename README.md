@@ -274,6 +274,7 @@
 | [3330-modify-the-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3429-special-array-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3429-special-array-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -630,6 +631,7 @@
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
@@ -697,6 +699,7 @@
 | [2636-maximum-subsequence-score](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
