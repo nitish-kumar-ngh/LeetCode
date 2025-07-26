@@ -599,6 +599,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3394-minimum-array-end](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3394-minimum-array-end) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
