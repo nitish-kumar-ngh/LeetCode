@@ -244,6 +244,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -499,6 +500,7 @@
 | [2107-find-unique-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -596,6 +598,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -763,6 +766,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
