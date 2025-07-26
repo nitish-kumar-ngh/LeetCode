@@ -1,28 +1,19 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-           
         vector<int>ans;
-        vector<int>a;
-        int y=0;
-       // a.push_back(0);
-        for(int i=0;i<arr.size();i++){
-           y=y^arr[i];
-           a.push_back(y);
+        ans.push_back(0);
+        int a=0;
+        for(int i=0 ;i<arr.size();i++){
+            a=a^arr[i];
+            ans.push_back(a);
         }
-        for(auto v:queries){
-            int i=v[0];
-            int j=v[1];
-            // int x=0;
-            // for(int k=i;k<=j;k++){
-            //    x=x^arr[k];
-            // }
-            if(i==0)ans.push_back(a[j]);
-            else{
-                 ans.push_back((a[j])^(a[i-1]));
-            }
-           
+        vector<int>answer(queries.size(),0);
+        for(int i=0;i<queries.size();i++){
+            int l=queries[i][0];
+            int r= queries[i][1];
+            answer[i]= ans[r+1]^ans[l];
         }
-        return ans;
+        return answer;
     }
 };
