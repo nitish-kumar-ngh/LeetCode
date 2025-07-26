@@ -272,6 +272,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3330-modify-the-matrix) |
@@ -609,6 +610,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3394-minimum-array-end) |
