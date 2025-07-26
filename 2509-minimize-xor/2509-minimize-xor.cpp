@@ -1,44 +1,30 @@
 class Solution {
 public:
-        //T.C : O(log(n))
-        //S.C : O(1)
-    bool isSet(int &x, int bit) {
-        return x & (1 << bit);
-    }
-
-    bool setBit(int &x, int bit) {
-        return x |= (1 << bit);
-    }
-
-    bool unsetBit(int &x, int bit) {
-        return x &= ~(1 << bit);
-    }
-
     int minimizeXor(int num1, int num2) {
-        int x = num1;
-
-        int requiredSetBitCount = __builtin_popcount(num2);
-        int currSetBitCount = __builtin_popcount(x);
-
-        int bit = 0; //position of bit
-        if(currSetBitCount < requiredSetBitCount) {
-            while(currSetBitCount < requiredSetBitCount) {
-                if(!isSet(x, bit)) {
-                    setBit(x, bit);
-                    currSetBitCount++;
-                }
-                bit++;
-            }
-        } else if(currSetBitCount > requiredSetBitCount) {
-            while(currSetBitCount > requiredSetBitCount) {
-                if(isSet(x, bit)) {
-                    unsetBit(x, bit);
-                    currSetBitCount--;
-                }
-                bit++;
-            }
+        //set bit ke position ko store karo phle
+        vector<long long >v;
+        int cnt =0;
+        for(int i=0;i<33;i++){
+            if(num1 & 1LL<<i)v.push_back(i);
+            if(num2 & 1LL<<i)cnt++;
         }
-
-        return x;
+        int ans =0;
+        for(int i=v.size()-1;i>=0;i-- ){
+             ans+=1LL<<v[i];
+             cnt--;
+             if(cnt ==0)break;
+        }
+        vector<long long >v1;
+        for(int i=0;i<33;i++){
+            if(!(ans & 1LL<<i))v1.push_back(i);
+        }
+        if (cnt!=0){
+        for(int i=0;i<v1.size();i++){
+            ans+=1LL<<v1[i];
+             cnt--;
+             if(cnt ==0)return ans;
+        }
+        }
+        return ans;
     }
 };
