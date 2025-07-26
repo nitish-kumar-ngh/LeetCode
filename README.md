@@ -276,6 +276,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3429-special-array-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3429-special-array-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -601,6 +602,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3394-minimum-array-end) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -990,6 +992,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Monotonic Queue
