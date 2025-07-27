@@ -601,6 +601,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
