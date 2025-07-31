@@ -181,6 +181,7 @@
 | [0890-lemonade-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
@@ -600,6 +601,7 @@
 | [0338-counting-bits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
@@ -903,6 +905,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
