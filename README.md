@@ -127,6 +127,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -831,6 +832,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0443-string-compression) |
