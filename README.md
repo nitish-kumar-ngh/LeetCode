@@ -175,6 +175,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -344,6 +345,7 @@
 | [0130-surrounded-regions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
@@ -697,6 +699,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
