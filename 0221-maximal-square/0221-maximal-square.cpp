@@ -18,13 +18,7 @@ public:
             else psi[i]=-1;
             s.push(i);
         }
-        for(int i=0;i<n;i++){
-            cout<<psi[i]<<" ";
-        }
-        cout<<"\n";
-        for(int i=0;i<n;i++){
-            cout<<nsi[i]<<" ";
-        }
+      
         int ans =0;
         for(int i=0;i<n;i++){
             int left=abs(psi[i]-i);
