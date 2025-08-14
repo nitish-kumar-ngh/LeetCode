@@ -1,36 +1,35 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int n=s.size();
-        int m=t.size();
-        if (m>n)return "";
-        int reqcount=m;
-        int minsize=INT_MAX;
-        unordered_map<char,int>mp;
-        for (char ch:t){
-            mp[ch]++;
+
+     //   if(s.size()<t.size())return "";
+        int l=0;
+        int r=0;
+        int mxlen=INT_MAX;
+        int st=0;
+        vector<int>hash(256,0);
+        for(int i=0;i<t.size();i++){
+            hash[t[i]]++;
         }
-         int start_i=0;
-        int i=0;
-        int j=0;
-        while(j<n){
-            char x = s[j];
-            if (mp[x]>0)reqcount--;
-            mp[x]--;
-            while (reqcount==0){
-                //shrink
-                int winsize=j-i+1;
-               if(minsize>winsize){
-                minsize=winsize;
-                start_i=i;
-               }
-               
-                mp[s[i]]++;
-                if (mp[s[i]]>0)reqcount++;
-                i++;
-            }
-            j++;
+        int cnt =0;
+        while(r<s.size()){
+             if(hash[s[r]]>0)cnt++;
+             hash[s[r]]--;
+             while(cnt==t.size()){
+                if(mxlen>r-l+1){
+                    mxlen=r-l+1;
+                    st=l;
+                }
+                hash[s[l]]++;
+                if (hash[s[l]] > 0) {
+                    cnt--;
+                }
+                l++;
+
+             }
+             r++;
         }
-        return minsize==INT_MAX?"":s.substr(start_i,minsize);
+        if(mxlen==INT_MAX)mxlen=0;
+        return s.substr(st,mxlen);
     }
 };
