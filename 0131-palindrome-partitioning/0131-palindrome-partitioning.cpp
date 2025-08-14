@@ -1,27 +1,28 @@
 class Solution {
 public:
- vector<vector<string>>result;
-  bool ispalindrom(string s){
-    string a=s;
-    reverse(a.begin(),a.end());
-    if(a==s)return true;
-    else return false;
-  }
-   void f(int idx,string s,vector<string>temp){
-    if (idx==s.size()){
-        result.push_back(temp);
-        return;
+    vector<vector<string>>ans;
+    bool p(string t){
+        string k=t;
+        reverse(t.begin(),t.end());
+        return k==t;
+    }
+    void f(string s,int idx,vector<string>&temp){
+        if(idx==s.size()){
+            ans.push_back(temp);
+            return ;
         }
-    for(int i=idx;i<=s.size();i++){
-        if (ispalindrom(s.substr(idx,i-idx+1))){
-            temp.push_back(s.substr(idx,i-idx+1));
-            f(i+1,s,temp);
-            temp.pop_back();
+        for(int i=idx;i<s.size();i++){
+            string t = s.substr(idx,i-idx+1);
+            if(p(t)){
+                temp.push_back(t);
+                f(s,i+1,temp);
+                temp.pop_back();
+            }
         }
     }
-   }
     vector<vector<string>> partition(string s) {
-    f(0,s,{});
-    return result;
+        vector<string>temp;
+         f(s,0,temp);
+         return ans;
     }
 };
