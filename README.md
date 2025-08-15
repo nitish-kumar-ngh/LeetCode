@@ -832,6 +832,7 @@
 | [0206-reverse-linked-list](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0326-power-of-three) |
+| [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
@@ -948,6 +949,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
+| [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -990,6 +992,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -1006,6 +1009,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -1140,4 +1144,8 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+## Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
