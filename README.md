@@ -702,6 +702,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1642-water-bottles) |
+| [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -968,6 +969,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -979,6 +981,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Game Theory
 |  |
 | ------- |
