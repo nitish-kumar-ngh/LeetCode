@@ -558,6 +558,7 @@
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -696,6 +697,7 @@
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -843,6 +845,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0326-power-of-three) |
 | [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -947,6 +950,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0312-burst-balloons) |
@@ -1168,5 +1172,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
