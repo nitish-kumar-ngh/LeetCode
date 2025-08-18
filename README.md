@@ -1180,4 +1180,8 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
