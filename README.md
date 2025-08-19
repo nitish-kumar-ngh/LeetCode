@@ -216,6 +216,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -370,6 +371,7 @@
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [1242-matrix-block-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -992,6 +994,7 @@
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
