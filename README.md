@@ -526,6 +526,7 @@
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -594,6 +595,7 @@
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -644,6 +646,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -996,6 +999,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1511-count-number-of-teams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1559-cherry-pickup-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
