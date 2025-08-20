@@ -531,6 +531,7 @@
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -602,6 +603,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1008,6 +1010,7 @@
 | [1559-cherry-pickup-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -1196,6 +1199,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 ## Memoization
 |  |
