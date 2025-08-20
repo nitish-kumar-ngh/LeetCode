@@ -179,6 +179,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -479,6 +480,7 @@
 | [0090-subsets-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -647,6 +649,7 @@
 | [0338-counting-bits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -987,6 +990,7 @@
 | [0435-non-overlapping-intervals](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -1164,6 +1168,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Brainteaser
