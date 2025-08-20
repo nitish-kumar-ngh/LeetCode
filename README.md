@@ -606,6 +606,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -924,6 +925,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -1013,6 +1015,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
