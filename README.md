@@ -253,6 +253,7 @@
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2078-maximum-compatibility-score-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2145-grid-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2145-grid-game) |
@@ -488,6 +489,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2078-maximum-compatibility-score-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Hash Table
@@ -662,6 +664,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2078-maximum-compatibility-score-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2509-minimize-xor) |
@@ -1030,6 +1033,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2078-maximum-compatibility-score-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
@@ -1176,6 +1180,7 @@
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [2078-maximum-compatibility-score-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Brainteaser
 |  |
 | ------- |
