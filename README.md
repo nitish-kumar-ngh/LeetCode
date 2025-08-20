@@ -308,6 +308,7 @@
 | [3430-count-days-without-meetings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -792,6 +793,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1033,6 +1035,7 @@
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
