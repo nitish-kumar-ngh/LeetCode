@@ -185,6 +185,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
@@ -592,6 +593,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0935-orderly-queue](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -919,6 +921,7 @@
 | [0567-permutation-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
