@@ -1022,6 +1022,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
