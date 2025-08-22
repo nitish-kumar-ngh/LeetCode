@@ -1026,6 +1026,7 @@
 | [1170-shortest-common-supersequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
