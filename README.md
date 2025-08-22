@@ -181,6 +181,7 @@
 | [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0733-flood-fill) |
@@ -734,6 +735,7 @@
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0935-orderly-queue) |
@@ -1007,6 +1009,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
