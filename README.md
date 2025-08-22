@@ -737,6 +737,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1004,6 +1005,7 @@
 | [0312-burst-balloons](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
