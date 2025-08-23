@@ -1076,6 +1076,7 @@
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
