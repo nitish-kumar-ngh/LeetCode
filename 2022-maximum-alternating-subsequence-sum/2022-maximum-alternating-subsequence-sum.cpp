@@ -5,14 +5,16 @@ public:
   long  long f(vector<int>& nums,int idx,int prev){
         if(idx>=n)return 0;
         if(t[idx][prev]!=-1)return t[idx][prev];
-       long long  skip = f(nums,idx+1,prev);
-      long long  val =nums[idx];
-        if(prev == 0){
-             val=-nums[idx];
-        }
-        long long  take = val+f(nums,idx+1,!prev);
+     long long  profit = INT_MIN;
+       if(prev==1){
+         profit = max(profit,max(nums[idx]+f(nums,idx+1,0),f(nums,idx+1,1)));
+       }else{
+             profit = max(profit,max(-nums[idx]+f(nums,idx+1,1),f(nums,idx+1,0)));
+       }
+       
+       // long long  take = val+f(nums,idx+1,!prev);
 
-        return t[idx][prev]= max(take,skip);
+        return t[idx][prev]= profit;
     }
     long long maxAlternatingSum(vector<int>& nums) {
         n=nums.size();
