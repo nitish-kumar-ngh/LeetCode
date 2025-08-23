@@ -747,6 +747,7 @@
 | [0343-integer-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
+| [0650-2-keys-keyboard](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0935-orderly-queue) |
@@ -1029,6 +1030,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
