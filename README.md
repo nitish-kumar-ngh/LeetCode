@@ -249,6 +249,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
+| [1808-stone-game-vii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1808-stone-game-vii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -759,6 +760,7 @@
 | [1642-water-bottles](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1808-stone-game-vii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1808-stone-game-vii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -1069,6 +1071,7 @@
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [1808-stone-game-vii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1808-stone-game-vii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -1096,6 +1099,7 @@
 | ------- |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1808-stone-game-vii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1808-stone-game-vii) |
 ## Tree
 |  |
 | ------- |
