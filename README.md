@@ -687,6 +687,7 @@
 | [2509-minimize-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -818,6 +819,7 @@
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2636-maximum-subsequence-score](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -1083,6 +1085,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
