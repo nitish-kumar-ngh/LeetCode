@@ -1,44 +1,33 @@
 class Solution {
 public:
-    //sare direction me move kr skte hai 
-    vector<vector<int>>directions={{1,1},{1,0},{0,1},{-1,0},{0,-1},{1,-1},{-1,1},{-1,-1}};
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-
-       int level=0;
-        int n= grid.size();
-        int m= grid[0].size();
-        if (n==0||m==0||grid[0][0]!=0)return -1;
-
-        auto isSafe=[&](int x,int y){
-            return x<n && y<m && x>=0 &&y>=0 ;
-        };
-        
-        queue<pair<int,int>>que;
-        que.push({0,0});//o shell
-        grid[0][0]=1;//visit bhi kiya
-        while (!que.empty()){
-            int N=que.size();
-            while(N--){
-                auto curr=que.front();
-                que.pop();
-                int x=curr.first;
-                int y=curr.second;
-                if (x==n-1&&y==m-1)return level+1;
-                //explore neighbour
-                for (auto dire:directions){
-                    int x_=dire[0]+x;
-                    int y_=dire[1]+y;
-                    if (isSafe(x_,y_)&&grid[x_][y_]==0){
-                        
-                        que.push({x_,y_});
-                        grid[x_][y_]=1;
-                    }
-
-                }
-
+        int r = grid.size();
+        int c = grid[0].size();
+        if(grid[0][0]==1)return -1;
+        vector<vector<int>>vis(r,vector<int>(c,0));
+        queue<pair<int,pair<int,int>>>q;
+        int ans =INT_MAX;
+        q.push({1,{0,0}});
+        vis[0][0]=1;
+        int dx[]= {1,-1,0,0,1,-1,1,-1};
+        int dy[]= {0,0,1,-1,-1,1,1,-1};
+        while(q.size()>0){
+            int dis = q.front().first;
+            int x = q.front().second.first;
+            int y =q.front().second.second;
+            q.pop();
+            if(x==r-1 && y==c-1){
+                ans=min(ans,dis);
             }
-            level++;
+            for(int d =0;d<8;d++){
+                int x_ = x+dx[d];
+                int y_ = y+dy[d];
+                if(x_>=0 && y_>=0 && x_<r && y_<c && grid[x_][y_]==0 && vis[x_][y_]==0){
+                    q.push({dis+1,{x_,y_}});
+                    vis[x_][y_]=1;
+                }
+            }
         }
-   return -1;
+        return ans==INT_MAX?-1:ans;
     }
 };
