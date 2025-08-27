@@ -214,6 +214,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1121-partition-array-for-maximum-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1240-stone-game-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -352,6 +353,7 @@
 | [1036-rotting-oranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -387,6 +389,7 @@
 | [1036-rotting-oranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
