@@ -325,6 +325,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -405,6 +406,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3330-modify-the-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3330-modify-the-matrix) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1093,6 +1095,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1285,6 +1288,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1488-sort-integers-by-the-power-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Database
 |  |
 | ------- |
