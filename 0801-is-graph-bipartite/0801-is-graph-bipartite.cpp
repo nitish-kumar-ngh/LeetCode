@@ -1,34 +1,37 @@
 class Solution {
 public:
-bool checkBipartiteBFS(int curr,vector<vector<int>>& adj, vector<int>&color,int currColor){
-      queue<int>que;
-      color[curr]=currColor;
-      que.push(curr);
-      while (que.size()>0){
-        int u=que.front();
-        que.pop();
-         for (auto v:adj[u]){
-        if (color[v]==color[u])return false;
-        if (color[v]==-1){
-            color[v]=1-color[u];
-            que.push(v);
-        }
-      }
-      }
-
-    
-
-        return true;
-
-}
-    bool isBipartite(vector<vector<int>>& adj) {
-        int V= adj.size();
-        vector<int>color(V,-1);//abhi koi color nahi huwa hai 
-        for (int i=0;i<V;i++){
-            if (color[i]==-1){
-                if (checkBipartiteBFS(i,adj,color,1)==false) return false;
+    bool bfs(int node, unordered_map<int,vector<int>>&adj,vector<int>&color){
+        queue<int>q;
+        q.push(node);
+        color[node]=0;
+        while(q.size()>0){
+            int x = q.front();
+            q.pop();
+            for(auto adjnode:adj[x]){
+                if(color[adjnode]==-1){
+                   q.push(adjnode);
+                   color[adjnode]=!color[x];
+                }else if(color[adjnode]==color[x])return false;
             }
         }
-       return true; 
+        return true;
+    }
+    bool isBipartite(vector<vector<int>>& graph) {
+         int n = graph.size();
+      //   int m = graph[0].size();
+        unordered_map<int,vector<int>>adj;
+
+        for(int i = 0;i<n;i++){
+            for(int j =0;j<graph[i].size();j++){
+                adj[i].push_back(graph[i][j]);
+            }
+        }
+        vector<int>color(n,-1);
+        for(int i =0;i<n;i++){
+            if(color[i]==-1){
+                if(bfs(i,adj,color)==false)return false;
+            }
+        }
+        return true;
     }
 };
