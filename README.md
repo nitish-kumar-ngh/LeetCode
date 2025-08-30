@@ -130,6 +130,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -373,6 +374,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -528,6 +530,7 @@
 | [0001-two-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
