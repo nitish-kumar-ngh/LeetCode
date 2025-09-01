@@ -256,6 +256,7 @@
 | [1876-map-of-highest-peak](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -832,6 +833,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1917-maximum-average-pass-ratio](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -856,6 +858,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
