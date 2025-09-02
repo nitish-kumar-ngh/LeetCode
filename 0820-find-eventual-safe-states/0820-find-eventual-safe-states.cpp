@@ -1,39 +1,40 @@
 class Solution {
 public:
-    bool isCycleDFS(vector<vector<int>>& adj, int u, vector<bool>& visited, vector<bool>& inRecursion) {
-        visited[u] = true;
-        inRecursion[u] = true;
+bool dfs(  unordered_map<int,vector<int>>&adj,int node,vector<int>&vis, vector<int>&pathvis){
+        vis[node]=1;
+        pathvis[node]=1;
         
-        
-        for(int &v : adj[u]) {
-            //if not visited, then we check for cycle in DFS
-            if(visited[v] == false && isCycleDFS(adj, v, visited, inRecursion))
-                return true;
-            else if(inRecursion[v] == true)
-                return true;
+        for(auto &it:adj[node]){
+            if(vis[it]==0){
+                if(dfs(adj,it,vis,pathvis))return true;
+            }else if(pathvis[it])return true;
         }
-        
-        inRecursion[u] = false;
+         pathvis[node]=0;
         return false;
-        
     }
-    
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int V = graph.size();
-        vector<bool> visited(V, false);
-        vector<bool> inRecursion(V, false);
+         
+        unordered_map<int,vector<int>>adj;
         
-        for(int i = 0; i<V; i++) {
-            if(!visited[i])
-                isCycleDFS(graph, i, visited, inRecursion);
+        for(int i=0;i<V;i++){
+           for(  auto &it:graph[i]){
+            adj[i].push_back(it);
+           }
         }
         
-        vector<int> safeNodes;
-        for(int i = 0; i<V; i++) {
-            if(!inRecursion[i])
-                safeNodes.push_back(i);
-        }
+        vector<int>vis(V,0);
+        vector<int>pathvis(V,0);
         
-        return safeNodes;
+        for(int i=0;i<V;i++){
+            if(vis[i]==0){
+                dfs(adj,i,vis,pathvis);
+            }
+        }
+        vector<int>ans;
+        for(int i=0;i<V;i++){
+            if(pathvis[i]==0)ans.push_back(i);
+        }
+        return ans;
     }
 };
