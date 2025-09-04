@@ -190,6 +190,7 @@
 | [0735-asteroid-collision](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0735-asteroid-collision) |
 | [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
+| [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -443,6 +444,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -488,6 +490,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1276,6 +1279,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
