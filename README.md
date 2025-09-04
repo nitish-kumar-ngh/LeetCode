@@ -329,6 +329,7 @@
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3654-minimum-array-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
@@ -1132,6 +1133,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3654-minimum-array-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
 |  |
