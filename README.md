@@ -231,6 +231,7 @@
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1418-fair-distribution-of-cookies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -366,6 +367,7 @@
 | [1104-coloring-a-border](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -408,6 +410,7 @@
 | [1394-minimum-path-cost-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1559-cherry-pickup-ii) |
