@@ -177,6 +177,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -1095,6 +1096,7 @@
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
