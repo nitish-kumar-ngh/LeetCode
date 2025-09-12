@@ -710,6 +710,7 @@
 | [3396-valid-word](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
@@ -834,6 +835,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3830-find-closest-person](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3830-find-closest-person) |
 ## Simulation
@@ -1180,6 +1182,7 @@
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1808-stone-game-vii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1808-stone-game-vii) |
+| [3462-vowels-game-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -1319,6 +1322,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Topological Sort
 |  |
 | ------- |
