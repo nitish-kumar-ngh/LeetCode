@@ -279,6 +279,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -384,6 +385,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
@@ -476,6 +478,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
@@ -528,6 +531,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2176-parallel-courses-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2176-parallel-courses-iii) |
+| [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -826,6 +830,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1388,4 +1393,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1511-count-number-of-teams) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
