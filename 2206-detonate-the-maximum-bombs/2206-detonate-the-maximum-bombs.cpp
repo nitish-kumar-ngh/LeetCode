@@ -1,9 +1,6 @@
 class Solution {
 public:
-    double sqrtt(double d) {
-        double ans = sqrt(d);
-        return round(ans * 100.0) / 100.0;
-    }
+  
 
     void dfs(int node, unordered_map<int,vector<int>>&adj, vector<int>&vis) {
         vis[node]=1;
