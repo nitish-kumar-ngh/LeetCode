@@ -534,6 +534,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -788,6 +789,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -883,6 +885,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2509-minimize-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -908,6 +911,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
