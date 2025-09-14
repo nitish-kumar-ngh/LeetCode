@@ -1,65 +1,48 @@
-//S.C : O(n)
-class DSU {
-public:
-    vector<int> parent;
-    vector<int> rank;
-
-    DSU(int n) {
-        parent.resize(n+1); //1, 2, 3, 4, 5.., n
-        rank.resize(n+1);
-        for(int i = 1; i <= n; i++) {
-            parent[i] = i;
-            rank[i] = 0;
-        }
-    }
-
-    int find(int x) {
-        if(x == parent[x]) {
-            return x;
-        }
-
-        return parent[x] = find(parent[x]); //path compression
-    }
-
-    void Union(int x, int y) {
-        int x_parent = find(x);
-        int y_parent = find(y);
-
-        if(x_parent == y_parent) {
-            return;
-        }
-
-        if(rank[x_parent] > rank[y_parent]) {
-            parent[y_parent] = x_parent;
-        } else if(rank[y_parent] > rank[x_parent]) {
-            parent[x_parent] = y_parent;
-        } else {
-            parent[y_parent] = x_parent; //we made x as the parent
-            rank[x_parent]++;
-        }
-    }
-};
-
 class Solution {
 public:
+    class disjointset{
+    public:
+    vector<int>parent;
+    vector<int>rank;
+    disjointset (int n){
+        parent.resize(n+1,0);
+        rank.resize(n+1,0);
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+        }
+    }
+    
+    int find_parent(int x){
+        if(parent[x]==x)return x;
+        return parent[x]=find_parent(parent[x]);
+    }
+    void union_by_rank(int x,int y){
+        int ulp_x = find_parent(x);
+        int ulp_y = find_parent(y);
+        if(ulp_x==ulp_y)return;
+        if(rank[ulp_x]>rank[ulp_y]){
+            parent[ulp_y]=ulp_x;
+        }else if(rank[ulp_x]<rank[ulp_y]){
+            parent[ulp_x]=ulp_y;
+        }else{
+              parent[ulp_x]=ulp_y;
+              rank[ulp_y]++;
+        }
+    }
+    };
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-
-        DSU dsu(n);
-        //T.C : DSU = alpha(n)
-
-        //T.C : O(n * alpha(n))
-        for(auto &edge : edges) { //O(n)
-            int u = edge[0];
-            int v = edge[1];
-
-            if(dsu.find(u) == dsu.find(v)) {
-                return edge;
+        disjointset ds(n);
+        for(int i=0;i<n;i++){
+            int u = edges[i][0];
+            int v =  edges[i][1];
+            if(ds.find_parent(u)!=ds.find_parent(v)){
+                ds.union_by_rank(u,v);
+            }else{
+                return {u,v};
             }
-
-            dsu.Union(u, v);
         }
-
+       
         return {};
     }
 };
