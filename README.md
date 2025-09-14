@@ -359,6 +359,7 @@
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -456,6 +457,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -487,6 +489,7 @@
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0922-possible-bipartition) |
@@ -508,6 +511,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
