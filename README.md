@@ -289,6 +289,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -844,6 +845,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -1062,6 +1064,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1377,6 +1380,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Doubly-Linked List
 |  |
