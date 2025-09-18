@@ -294,6 +294,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2429-design-a-food-rating-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -391,6 +392,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -489,6 +491,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Union Find
 |  |
 | ------- |
@@ -508,6 +511,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -548,6 +552,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -636,6 +641,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1233,6 +1239,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
