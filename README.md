@@ -302,6 +302,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -393,6 +394,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -492,6 +494,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -554,6 +557,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2455-node-with-highest-edge-score) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1242,6 +1246,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
