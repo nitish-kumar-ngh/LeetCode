@@ -679,6 +679,7 @@
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
@@ -849,6 +850,7 @@
 | [0002-add-two-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0231-power-of-two) |
@@ -893,6 +895,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0735-asteroid-collision) |
