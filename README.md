@@ -129,6 +129,7 @@
 | [0011-container-with-most-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0036-valid-sudoku) |
@@ -1065,6 +1066,7 @@
 | [0011-container-with-most-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
