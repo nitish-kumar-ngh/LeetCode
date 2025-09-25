@@ -139,6 +139,7 @@
 | [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0054-spiral-matrix) |
@@ -601,6 +602,7 @@
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0127-word-ladder) |
@@ -680,6 +682,7 @@
 | [0020-valid-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
@@ -804,6 +807,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
