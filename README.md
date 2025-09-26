@@ -612,6 +612,7 @@
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -695,6 +696,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0383-ransom-note](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -1010,6 +1012,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
