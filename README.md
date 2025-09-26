@@ -261,6 +261,7 @@
 | [1720-crawler-log-folder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1791-richest-customer-wealth](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1808-stone-game-vii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1808-stone-game-vii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -444,6 +445,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1791-richest-customer-wealth](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
