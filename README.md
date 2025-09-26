@@ -689,6 +689,7 @@
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -1080,6 +1081,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0567-permutation-in-string) |
