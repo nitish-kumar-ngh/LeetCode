@@ -681,6 +681,7 @@
 | [0012-integer-to-roman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0072-edit-distance) |
@@ -1076,6 +1077,7 @@
 | [0018-4sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -1363,6 +1365,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
