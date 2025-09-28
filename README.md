@@ -208,6 +208,7 @@
 | [0952-word-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -830,6 +831,7 @@
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0935-orderly-queue](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1129-longest-string-chain) |
@@ -879,6 +881,7 @@
 | [0900-reordered-power-of-2](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0935-orderly-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -942,6 +945,7 @@
 | [0770-couples-holding-hands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0890-lemonade-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
