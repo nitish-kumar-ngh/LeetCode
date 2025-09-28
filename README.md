@@ -532,6 +532,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
 | ------- |
@@ -576,6 +577,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -860,6 +862,7 @@
 | [3399-find-the-integer-added-to-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Math
 |  |
 | ------- |
@@ -1086,6 +1089,7 @@
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Two Pointers
 |  |
 | ------- |
