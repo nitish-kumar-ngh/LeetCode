@@ -257,6 +257,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -661,6 +662,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1612-avoid-flood-in-the-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -959,6 +961,7 @@
 | [0917-boats-to-save-people](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1917-maximum-average-pass-ratio](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -988,6 +991,7 @@
 | [1325-path-with-maximum-probability](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1091,6 +1095,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
