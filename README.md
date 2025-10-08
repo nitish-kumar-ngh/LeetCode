@@ -190,6 +190,7 @@
 | [0498-diagonal-traverse](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1216,6 +1217,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1495,6 +1497,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0546-remove-boxes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0546-remove-boxes) |
 | [0930-all-possible-full-binary-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1488-sort-integers-by-the-power-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
