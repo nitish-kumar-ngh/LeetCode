@@ -200,6 +200,7 @@
 | [0794-swim-in-rising-water](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
+| [0879-maximize-distance-to-closest-person](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
