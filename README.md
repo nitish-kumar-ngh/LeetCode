@@ -201,6 +201,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0879-maximize-distance-to-closest-person](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0880-rectangle-area-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0909-stone-game) |
@@ -1169,6 +1170,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0880-rectangle-area-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1511-count-number-of-teams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Trie
@@ -1467,6 +1469,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0880-rectangle-area-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [2023-design-movie-rental-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -1533,4 +1536,8 @@
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+## Line Sweep
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0880-rectangle-area-ii) |
 <!---LeetCode Topics End-->
