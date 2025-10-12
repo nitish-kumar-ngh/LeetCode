@@ -161,6 +161,7 @@
 | [0130-surrounded-regions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -628,6 +629,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -718,6 +720,7 @@
 | [0127-word-ladder](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0383-ransom-note) |
@@ -1177,6 +1180,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
@@ -1200,6 +1204,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0221-maximal-square) |
@@ -1503,6 +1508,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0546-remove-boxes) |
