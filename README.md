@@ -606,6 +606,7 @@
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -897,6 +898,7 @@
 | [0279-perfect-squares](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0553-optimal-division](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -1220,6 +1222,7 @@
 | [0337-house-robber-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0413-arithmetic-slices) |
