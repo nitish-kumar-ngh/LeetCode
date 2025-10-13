@@ -239,6 +239,7 @@
 | [1325-path-with-maximum-probability](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -662,6 +663,7 @@
 | [1160-letter-tile-possibilities](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -749,6 +751,7 @@
 | [1170-shortest-common-supersequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -860,6 +863,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1488-sort-integers-by-the-power-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
