@@ -1,31 +1,31 @@
 class Solution {
 public:
-    int cnt =0;
-    void dfs(int node, unordered_map<int,vector<int>>&adj,unordered_set<int>&s,vector<int>&vis){
-     vis[node]=1;
-     cnt++;
-     for(auto adjnode:adj[node]){
-        if(vis[adjnode]==0 && s.find(adjnode)==s.end()){
-            dfs(adjnode,adj,s,vis);
+    unordered_set<int>s;
+    void f(int src,vector<int>&vis,   unordered_map<int,vector<int>>&adj,vector<int>& restricted){
+        vis[src]=1;
+        for(auto &it:adj[src]){
+            if(vis[it]==0 && s.find(it)==s.end()){
+                f(it,vis,adj,restricted);
+            }
         }
-     }
     }
     int reachableNodes(int n, vector<vector<int>>& edges, vector<int>& restricted) {
-        unordered_set<int>s;
-        for(int i=0;i<restricted.size();i++){
-            s.insert(restricted[i]);
-        }
         unordered_map<int,vector<int>>adj;
+        for(int i=0;i<restricted.size();i++){
+         s.insert(restricted[i]);
+        }
         for(int i=0;i<edges.size();i++){
             int u = edges[i][0];
             int v = edges[i][1];
-
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-
+        int cnt =0;
         vector<int>vis(n,0);
-        dfs(0,adj,s,vis);
+        f(0,vis,adj,restricted);
+        for(int i=0;i<n;i++){
+            if(vis[i]==1)cnt++;
+        }
         return cnt;
     }
 };
