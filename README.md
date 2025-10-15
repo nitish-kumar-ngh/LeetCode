@@ -406,6 +406,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -515,6 +516,7 @@
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -671,6 +673,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1547-destination-city) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-path-crossing](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1619-path-crossing) |
@@ -1335,6 +1338,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
