@@ -174,6 +174,7 @@
 | [0268-missing-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0322-coin-change) |
@@ -1190,6 +1191,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0880-rectangle-area-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [1511-count-number-of-teams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -1371,6 +1373,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -1492,6 +1495,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1562,6 +1566,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Geometry
 |  |
