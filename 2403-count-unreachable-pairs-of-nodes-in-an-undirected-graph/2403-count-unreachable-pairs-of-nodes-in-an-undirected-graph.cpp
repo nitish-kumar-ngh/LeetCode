@@ -1,52 +1,65 @@
 class Solution {
 public:
-    vector<int>parent;
-    vector<int>rank;
-    int find(int x){//
-        if (parent[x]==x)return x;
-        return parent[x]=find(parent[x]);
+    class Disjoint{
+     public:
+     vector<int>rank;
+     vector<int>parent;
+     vector<int>size;
 
-    }
-    void Union(int x,int y){
-        int x_parent=find(x);
-        int y_parent=find(y);
-        if (x_parent==y_parent) return ;
-        if (rank[x_parent]>rank[y_parent]){
-            parent[y_parent]=x_parent;
-        }else if (rank[y_parent]>rank[x_parent]){
-            parent[x_parent]=y_parent;
-        }else {
-            parent[x_parent]=y_parent;
-            rank[y_parent]++;
-        }
-    }
-    long long countPairs(int n, vector<vector<int>>& edges) {
-        parent.resize(n);
+     Disjoint (int n){
         rank.resize(n,0);
-        for (int i=0;i<n;i++){
+        parent.resize(n,0);
+        size.resize(n,1);
+        for(int i=0;i<n;i++){
             parent[i]=i;
         }
-        for (auto x:edges){
-            int a=x[0];
-            int b=x[1];
-            int apapa=find(a);
-            int bpapa=find(b);
-            if (apapa != bpapa)Union(a,b);
+
+     }
+     int find(int x){
+        if(parent[x]==x)return x;
+        return parent[x]= find(parent[x]);
+     }
+
+     void union_by_size(int u,int v){
+        int ulp_u = find(u);
+        int ulp_v = find(v);
+        if(ulp_u==ulp_v)return ;
+        if(size[ulp_u]>size[ulp_v]){
+            parent[ulp_v]=ulp_u;
+            size[ulp_u]+=size[ulp_v];
+        }else{
+               parent[ulp_u]=ulp_v;
+            size[ulp_v]+=size[ulp_u];
         }
-        unordered_map<int,int>mp;
-        for(int i=0;i<n;i++){
-            int papaji=find(i);
-            mp[papaji]++;
+     }
+
+    };
+    long long countPairs(int n, vector<vector<int>>& edges) {
+        long long ans=0;
+        Disjoint ds(n);
+
+        for(int i=0;i<edges.size();i++){
+            int u = edges[i][0];
+            int v = edges[i][1];
+            if(ds.find(u)!=ds.find(v)){
+                ds.union_by_size(u,v);
+            }
         }
-        //
-        long long result=0;
-        long long remainingcomponet=n;
-        for (auto y:mp){
-            int d=y.second;
-            result+= d *(remainingcomponet-d);
-            remainingcomponet-=d;
+
+       vector<int>v;
+       for(int i=0;i<n;i++){
+        if(ds.parent[i]==i){
+            v.push_back(ds.size[i]);
         }
-        
-        return result;
+       } 
+       int rem = n;
+       for(int i=0;i<v.size();i++){
+         ans+=(v[i])*1LL*(rem-v[i]);
+         rem=rem-v[i];
+       }
+
+        return ans;
+       
+       
     }
 };
