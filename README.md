@@ -537,6 +537,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -1365,6 +1366,7 @@
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
