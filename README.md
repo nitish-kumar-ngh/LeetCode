@@ -562,6 +562,7 @@
 | [1073-number-of-enclaves](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -598,6 +599,7 @@
 | [1558-course-schedule-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1916-find-center-of-star-graph](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1916-find-center-of-star-graph) |
