@@ -1,40 +1,36 @@
 class Solution {
 public:
+    typedef pair<int,pair<int,int>>p;
     int swimInWater(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        vector<pair<int,int>> directions = {{0,1}, {1,0}, {0,-1}, {-1,0}};
-        
-        auto dfs = [&](int r, int c, int mid, vector<vector<bool>>& seen, auto& dfs_ref) -> bool {
-            if (r == m-1 && c == n-1) return true;
-            seen[r][c] = true;
-            
-            for (auto [dr, dc] : directions) {
-                int nr = r + dr, nc = c + dc;
-                if (nr >= 0 && nr < m && nc >= 0 && nc < n && !seen[nr][nc]) {
-                    if (grid[nr][nc] <= mid) {
-                        if (dfs_ref(nr, nc, mid, seen, dfs_ref)) return true;
-                    }
+        int r = grid.size();
+        int c = grid[0].size();
+        vector<vector<int>>vis(r,vector<int>(c,0));
+        int ans = 1e9;
+        priority_queue<p,vector<p>,greater<p>>q;
+        q.push({grid[0][0],{0,0}});
+        vis[0][0]=1;
+        int dx[]={1,-1,0,0};
+        int dy[]={0,0,1,-1};
+        while(q.size()>0){
+            int t = q.top().first;
+            int x = q.top().second.first;
+            int y = q.top().second.second;
+            q.pop();
+            if(x==r-1 && y==c-1){
+                if(ans>t){
+                    ans=t;
+                }
+
+            }
+            for(int i=0;i<4;i++){
+                int x_ = x+dx[i];
+                int y_= y+dy[i];
+                if(x_>=0 && x_<r && y_>=0 && y_<c && vis[x_][y_]==0){
+                    q.push({max(t,grid[x_][y_]),{x_,y_}});
+                    vis[x_][y_]=1;
                 }
             }
-            return false;
-        };
-        
-        auto possible = [&](int mid) {
-            if (grid[0][0] > mid) return false;
-            vector<vector<bool>> seen(m, vector<bool>(n, false));
-            return dfs(0, 0, mid, seen, dfs);
-        };
-        
-        int lo = grid[0][0], hi = 0;
-        for (auto& row : grid)
-            for (int val : row)
-                hi = max(hi, val);
-        
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (possible(mid)) hi = mid;
-            else lo = mid + 1;
         }
-        return lo;
+        return ans;
     }
 };
