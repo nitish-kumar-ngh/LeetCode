@@ -434,6 +434,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Matrix
 |  |
 | ------- |
@@ -547,6 +548,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1387,6 +1389,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
