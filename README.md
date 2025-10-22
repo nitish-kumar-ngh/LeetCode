@@ -365,6 +365,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3654-minimum-array-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -928,6 +929,7 @@
 | [3399-find-the-integer-added-to-array-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Math
@@ -1097,6 +1099,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -1167,6 +1170,7 @@
 | [2690-house-robber-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2690-house-robber-iv) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Two Pointers
 |  |
@@ -1473,6 +1477,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
