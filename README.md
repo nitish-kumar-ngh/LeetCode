@@ -206,6 +206,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0869-similar-string-groups) |
+| [0878-shifting-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0878-shifting-letters) |
 | [0879-maximize-distance-to-closest-person](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0880-rectangle-area-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0880-rectangle-area-ii) |
 | [0881-loud-and-rich](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0881-loud-and-rich) |
@@ -783,6 +784,7 @@
 | [0768-partition-labels](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0869-similar-string-groups](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0869-similar-string-groups) |
+| [0878-shifting-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0878-shifting-letters) |
 | [0935-orderly-queue](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1076,6 +1078,7 @@
 | [0303-range-sum-query-immutable](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0878-shifting-letters](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
