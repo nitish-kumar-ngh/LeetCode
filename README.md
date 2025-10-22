@@ -368,6 +368,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3639-zero-array-transformation-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1103,6 +1104,7 @@
 | [3311-ant-on-the-boundary](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
 | ------- |
