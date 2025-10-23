@@ -167,6 +167,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0221-maximal-square) |
@@ -453,6 +454,7 @@
 | [0130-surrounded-regions](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -647,6 +649,7 @@
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0526-beautiful-arrangement) |
@@ -769,6 +772,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -1249,6 +1253,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
