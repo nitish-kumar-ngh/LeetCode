@@ -1,28 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> matrixBlockSum(vector<vector<int>>& mat, int k) {
-        int x = mat.size();
-        int y = mat[0].size();
-        vector<vector<int>> answer(x,vector<int>(y,0));
-        for(int i=0;i<x;i++){
-            for(int j=0;j<y;j++){
-                int ans=0;
-                int nlow_x=i-k;
-                int nhigh_x=i+k;
-                if(nhigh_x>=x)nhigh_x=x-1;
-                if(nlow_x<0)nlow_x=0;
-                 int nlow_y=j-k;
-                int nhigh_y=j+k;
-                if(nhigh_y>=y)nhigh_y=y-1;
-                if(nlow_y<0)nlow_y=0;
-                for(int k=nlow_x;k<=nhigh_x;k++){
-                    for(int m=nlow_y;m<=nhigh_y;m++){
-                     ans+=mat[k][m];
-                    }
+        int r = mat.size();
+        int c = mat[0].size();
+     vector<vector<int>>ans(r,vector<int>(c,0));
+        for(int i=0;i<r;i++){
+            for(int j =0;j<c;j++){
+                int x=0;
+                int nr = i-k;
+                if(nr<0)nr =0;
+                int nc=j-k;
+                if(nc<0)nc =0;
+                int NR= i+k;
+                if(NR>=r) NR=r-1;
+                int NC= j+k;
+                if(NC>=c)NC=c-1;
+                for(int k=nr;k<=NR;k++){
+                   for(int l=nc;l<=NC;l++){
+                       x+=mat[k][l];
+                   }
                 }
-                answer[i][j]=ans;
+                ans[i][j] = x;
+                
             }
         }
-        return answer;
+        return ans;
+
     }
 };
