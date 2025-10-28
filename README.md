@@ -377,6 +377,7 @@
 | [3654-minimum-array-sum](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1064,6 +1065,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1512,6 +1514,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Queue
 |  |
 | ------- |
