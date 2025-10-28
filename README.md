@@ -344,6 +344,7 @@
 | [2756-buy-two-chocolates](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -751,6 +752,7 @@
 | [2634-minimum-common-value](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1514,6 +1516,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
