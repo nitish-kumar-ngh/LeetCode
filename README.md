@@ -325,6 +325,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -899,6 +900,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1517,6 +1519,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2478-longest-nice-subarray](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
