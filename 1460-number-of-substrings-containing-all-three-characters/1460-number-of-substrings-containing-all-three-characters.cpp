@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int f(string s,int k){
-        int ans=0;
-        int l=0;
-        int r=0;
+    int numberOfSubstrings(string s) {
+        int l =0;
+        int r =0;
+        int n = s.size();
+        int ans =0;
         unordered_map<char,int>mp;
-        while(r<s.size()){
-            mp[s[r]]++;
-            while(mp.size()>k){
-               mp[s[l]]--;
-               if(mp[s[l]]==0)mp.erase(s[l]);
-               l++;
+        while(r<n){
+          mp[s[r]]++;
+          while(mp.size()==3){
+            ans=ans+(n-r);
+            mp[s[l]]--;
+            if(mp[s[l]]==0){
+                mp.erase(s[l]);
             }
-            ans+=r-l+1;
-            r++;
+            l++;
+          }
+          r++;
         }
         return ans;
-    }
-    int numberOfSubstrings(string s) {
-         return f(s,3)-f(s,2);
     }
 };
