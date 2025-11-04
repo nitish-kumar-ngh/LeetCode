@@ -659,6 +659,7 @@
 | [0079-word-search](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1308,6 +1309,7 @@
 | [0085-maximal-rectangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0120-triangle) |
@@ -1426,6 +1428,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0101-symmetric-tree) |
@@ -1452,6 +1455,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0101-symmetric-tree) |
@@ -1695,5 +1699,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nitish-kumar-ngh/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
